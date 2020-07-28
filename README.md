@@ -2,6 +2,7 @@
 googleが提供するmaterial-uiを使ってみる
 material-uiのレイアウトが気になった
 振り返れるsampleの作成が目的
+> [公式] https://material-ui.com/ja/getting-started/installation/
 
 ## プロジェクトの作成
 
